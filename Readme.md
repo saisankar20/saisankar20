@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **sanakr156b@gmail.com**
 
+-  👨‍💻 Check out my secondary GitHub account at [https://github.com/sb23w](https://github.com/sb23w)
+
 - 📄 Know about my experiences [https://github.com/saisankar20/Resume/blob/main/resume%20-%20August.pdf](https://github.com/saisankar20/Resume/blob/main/resume%20-%20August.pdf)
 
 <h3 align="left">Connect with me:</h3>
