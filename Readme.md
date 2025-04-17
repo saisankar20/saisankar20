@@ -72,7 +72,7 @@
 
 - ✉️ sankar156b@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saisankar20)  
-- 🖥️ [LeetCode](https://leetcode.com/saisankar20)  
+- 🖥️ [LeetCode](https://leetcode.com/sb23w)  
 
 ---
 
